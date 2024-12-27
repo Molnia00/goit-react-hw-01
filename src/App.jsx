@@ -1,6 +1,8 @@
 
 import Profile from './components/Profile/Profile'
-import userData from "./userData.json";
+import userData from './userData.json';
+import FriendList from './components/FriendList/FriendList'
+import friends from './friends.json';
 //
 
 
@@ -14,6 +16,7 @@ function App () {
         image={userData.avatar}
         stats={userData.stats}
       />
+      <FriendList friends={friends} />
   </>
   );
 };

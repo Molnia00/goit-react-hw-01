@@ -1,0 +1,27 @@
+.item{
+
+border: 1px solid #000000;
+border-radius: 6px;
+padding: 10px;
+text-align: center;
+}
+
+.name{
+font-size: 20px;
+}
+
+.statusOnline{
+color: green;
+}
+
+.statusOffline{
+color: red;
+}
+
+
+
+
+
+
+
+
