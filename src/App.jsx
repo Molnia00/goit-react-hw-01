@@ -1,6 +1,6 @@
 
 import Profile from './components/Profile/Profile'
-import userData from "../userData.json";
+import userData from "./userData.json";
 //
 
 
